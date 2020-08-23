@@ -1,0 +1,7 @@
+Installing mongodb:
+
+D:\Learning\mongodb\bin\mongod.exe --dbpath=D:\Learning\mongodb-data
+
+Table - Collection
+Row/Record - Document
+Column - Field
